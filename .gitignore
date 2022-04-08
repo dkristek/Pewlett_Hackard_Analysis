@@ -3,6 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Additional files
+queries.sql
+schema.sql
+emp_dept_count.csv
+retirement_info.csv
+departments.csv
+dept_manager.csv
+salaries.csv
+
 # C extensions
 *.so
 
