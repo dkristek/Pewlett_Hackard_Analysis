@@ -26,3 +26,14 @@ Count of Retiring Titles Table
 
 ### Summary
 As stated in the takeaway section, 72,359 positions will need to be filled as these employees retire. However, only 1,550 employees are elgibile to be in the mentorship which is most likely not enough to mentor the next generation of employees.
+
+The table below shows the count of employees by position that are eligible to be a mentor.
+
+![Mentorship Titles](https://github.com/dkristek/Pewlett_Hackard_Analysis/blob/main/Resources/mentorship_titles.png)
+
+
+This table shows the count of employees by position that are not retiring soon.
+
+![Non Retiring Titles](https://github.com/dkristek/Pewlett_Hackard_Analysis/blob/main/Resources/nonretirement_count.png)
+
+This shows how few mentors there are for each position relative to the number of non retiring employees. Especially the manager position which has no eligible mentors available. This lack of mentors is a cause for concern for the company.
